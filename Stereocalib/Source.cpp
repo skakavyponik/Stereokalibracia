@@ -17,6 +17,7 @@ using namespace std;
 
 static int print_help()
 {
+
 	cout <<
 		" Given a list of chessboard images, the number of corners (nx, ny)\n"
 		" on the chessboards, and a flag: useCalibrated for \n"
